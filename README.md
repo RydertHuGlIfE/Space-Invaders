@@ -22,7 +22,9 @@ Rules Display: Shows game rules for better understanding of the gameplay mechani
 
 Enjoy playing Space Invaders and aim for the highest score! 🚀👾
 
-
+Went for a pretty minimalistic approach 
+so no pictures, just shapes 
+lmk if you want pictures in here!
 
 ENJOY AND HAVE FUN !!!!
 AND PLEASE PLEASE PLEASE YOUR SUGGESTIONS WOULD REALLY MEAN A LOT FOR ME PLEASE GIVE FEEDBACK HERE!!!!!!
